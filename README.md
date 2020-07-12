@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center"><img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" align="center" width="400"></p>
 
-<!--
-**rajprakash00/rajprakash00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://twitter.com/RajprakashSahoo">
+<img src="https://img.shields.io/badge/-@RajprakashSahoo-1ca0f1?style=flat&logo=twitter&labelColor=1ca0f1&logoColor=white&link=https://twitter.com/RajprakashSahoo" >
+</a>
+<a href="https://www.linkedin.com/in/rajprakash-sahoo-7597a216a/">
+<img src="https://img.shields.io/badge/-Rajprakashsahoo-blue?style=flat&logo=LinkedIn&labelColor=1ca0f1&logoColor=black&link=https://twitter.com/RajprakashSahoo" >
+</a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello! :wave:
+
+- I am Raj, a sophomore at IIIT-Bhubaneswar studying Computer Science & Engineering.
+- I mostly do Frontend dev(React),mobile-app dev(React Native) &  competitive programming(C++).
+- These days I'm learning Rust & advanced node JS.
+- Apart from this I used to do bug hunting in web-apps & have a sound experience in field of security :man_technologist:
+- Besides programming ,I enjoy singing & playing CS :video_game:
