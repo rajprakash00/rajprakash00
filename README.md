@@ -7,7 +7,9 @@
 <a href="https://www.linkedin.com/in/rajprakash-sahoo-7597a216a/">
 <img src="https://img.shields.io/badge/-Rajprakashsahoo-blue?style=flat&logo=LinkedIn&labelColor=1ca0f1&logoColor=white&link=https://twitter.com/RajprakashSahoo" >
 </a>
-
+<a href="https://github.com/rajprakash00/Resume/releases/latest/download/resume.pdf">
+<img src="https://img.shields.io/badge/Resume-PDF-red" >
+</a>
 </p>
 
 ### Hello! :wave:
