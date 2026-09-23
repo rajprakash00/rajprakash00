@@ -2,7 +2,7 @@
 <p align="center"><b>AI engineer ~ I build LLM systems that prove their work. Prefers primitives >>> frameworks</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/open_to-AI_%2F_LLM_Engineer_roles-2ea44f?style=flat-square" alt="Open to AI Engineer roles">
-  <a href="https://drive.google.com/file/d/1yTFHRxneAWEVLSZs6O9z0b-zQH_AYL24/view?usp=drivesdk">
+  <a href="https://byraj.dev/resume.pdf">
     <img src="https://img.shields.io/badge/resume-Raj_AI_Engineer_Resume-important?style=flat-square&logo=readme&logoColor=white" alt="Raj_AI_Engineer_Resume.pdf"/></a>
 </p>
 <p align="center">
