@@ -30,6 +30,8 @@ Upload an agreement and its amendments; get obligations extracted (owners, deadl
 
 Search video like it's text: ask for a moment in plain language, get the exact frame back with jump-to-timestamp links. Stage-cached ingest (FFmpeg → shot detection → faster-whisper ASR → SigLIP embeddings), fused visual + transcript retrieval over LanceDB, served as REST and MCP tools for agents.
 
+<a href="https://github.com/rajprakash00/shotgrep/actions/workflows/ci.yml"><img src="https://github.com/rajprakash00/shotgrep/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+
 `Recall@5 0.688 vs 0.578 baseline` · `MRR 0.495` · `p50 189 ms / p95 234 ms`
 `Python` `FFmpeg` `faster-whisper` `SigLIP + bge-small ONNX int8` `LanceDB` `FastAPI` `MCP` `Fly.io`
 
